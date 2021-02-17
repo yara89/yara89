@@ -8,7 +8,7 @@ Hello, Yara here, check out my profile.
 ### <a href=" https://www.frauenloop.org/"> FrauenLoop</a>
 
 ✏️ I’m currently learning to Develop some web apps using Python Flask, and more....
-I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a href="https://www.frauenloop.org/"> FrauenLoop</a> in Berlin, and I am currently in my ##4th Cycle. I am very lucky to be involved in the FraueLoop initiative here in Berlin, as a program that tries improve diversity and inclusion in the Tech Field.
+I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a href="https://www.frauenloop.org/"> FrauenLoop</a> in Berlin, and I am currently in my 4th Cycle. I am very lucky to be involved in the FraueLoop initiative here in Berlin, as a program that tries improve diversity and inclusion in the Tech Field.
 
 
 ### some of my coolest Mentors:
