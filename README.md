@@ -13,7 +13,7 @@ I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a h
 
 ### some of my coolest Mentors:
 
-[![](https://github.com/dshine.png?size=100)](https://github.com/dshine) | [![](https://github.com/NathalieScherf.png?size=100)](https://github.com/NathalieScherf) |  [![](https://github.com/tugcekonuklar.png?size=100)](https://github.com/tugcekonuklar) | [![](https://github.com/ChristinaGalani.png?size=50)](https://github.com/ChristinaGalani) | [![](https://avatars.githubusercontent.com/u/8049327?s=400&v=4?size=100)](https://github.com/mduhagon/)
+[![](https://github.com/dshine.png?size=100)](https://github.com/dshine) | [![](https://github.com/NathalieScherf.png?size=100)](https://github.com/NathalieScherf) |  [![](https://github.com/tugcekonuklar.png?size=100)](https://github.com/tugcekonuklar) | [![](https://github.com/ChristinaGalani.png?size=100)](https://github.com/ChristinaGalani) | [![](https://avatars.githubusercontent.com/u/8049327?s=100&v=4)](https://github.com/mduhagon/)
 
 ### Small projects
 
