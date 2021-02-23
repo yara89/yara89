@@ -19,15 +19,17 @@ I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a h
 
 ### Small projects
 
-I have worked on artists' web projects with my HTML + CSS skills:
+I have worked on artists' web projects with my HTML + CSS skills, and managed and maintained these sites:
 
-- <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a> [![](https://payload.cargocollective.com/1/19/616003/14212539/01-abu-jildeh-basel-ruanne-thumbnail_1.png?size=100)](https://abujildeh.com)  
-
-- <a href="https://bilnaes.com/">Bilnaes</a>
+- [![](https://payload.cargocollective.com/1/19/616003/14212539/01-abu-jildeh-basel-ruanne-thumbnail_1.png?size=100)](https://abujildeh.com)  
+ | <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a> 
+- [![](https://freight.cargo.site/w/2000/q/75/i/f12a8879010b8a0c6149f7247700e2a08903b7e53428eac14772b31e68ee981f/dakn-album_back-cover-final_October-30.jpg?size=100)](https://bilnaes.com/) | <a href="https://bilnaes.com/">Bilnaes</a>
+- 
+  
 
 I’m currently working on the coordination of Outreach/content management/testing of the Palestinian Museum's online platform:
 
-- <a href="https://www.paljourneys.org/">PalJourneys</a>
+- [![](https://www.paljourneys.org/screenshot.png?size=100)](https://www.paljourneys.org) | <a href="https://www.paljourneys.org/">PalJourneys</a> 
 
 
 ### Talks & Workshops Attended
