@@ -19,17 +19,15 @@ I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a h
 
 ### Small projects
 
-I have worked on artists' web projects with my HTML + CSS skills, and managed and maintained these sites:
+I have worked on artists' web projects with my **HTML + CSS skills**, and managed and maintained these sites:
 
-- [![](https://payload.cargocollective.com/1/19/616003/14212539/01-abu-jildeh-basel-ruanne-thumbnail_1.png?size=100)](https://abujildeh.com)  
- | <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a> 
-- [![](https://freight.cargo.site/w/2000/q/75/i/f12a8879010b8a0c6149f7247700e2a08903b7e53428eac14772b31e68ee981f/dakn-album_back-cover-final_October-30.jpg=250x250)](https://bilnaes.com/) | <a href="https://bilnaes.com/">Bilnaes</a>
-- 
-  
+[![](https://payload.cargocollective.com/1/19/616003/14212539/01-abu-jildeh-basel-ruanne-thumbnail_1.png?size=100)](https://abujildeh.com) | <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a> 
+[![](https://freight.cargo.site/w/100/q/94/i/06e281638ce67a70be931654c8621d7d63236f30e140307dad57a70d704064f9/mask-1_invert.jpg)](https://bilnaes.com/) | <a href="https://bilnaes.com/">Bilnaes</a>
 
-I’m currently working on the coordination of Outreach/content management/testing of the Palestinian Museum's online platform:
 
-- [![](https://www.paljourneys.org/screenshot.png=50x50)](https://www.paljourneys.org) | <a href="https://www.paljourneys.org/">PalJourneys</a> 
+I’m currently working on the coordination of **digital outreach/ maintenance/content management/testing** of the Palestinian Museum's online platform:
+
+[![](https://www.paljourneys.org/screenshot.png)](https://www.paljourneys.org) | <a href="https://www.paljourneys.org/">PalJourneys</a> 
 
 
 ### Talks & Workshops Attended
@@ -38,9 +36,9 @@ I have learned so much from the workshops I have participated in throughout 2020
 
 <img src="https://pbs.twimg.com/media/Eokrei5XEAcRlmE?format=jpg&name=small" alt="Banner for the 'Build your digital story' workshop that I participated in with FrauenLoop.I learned so much about the uses of GitHub in the job search">
 
-<img src="https://pbs.twimg.com/media/EhabxAOWkAA_Nj1?format=jpg&name=300x300" alt="Banner for the 'Negotiating Compensation in the time of Covid-19' workshop. I learned about alternative methods of compensation.">
+<img src="https://pbs.twimg.com/media/EhabxAOWkAA_Nj1?format=jpg&name=small" alt="Banner for the 'Negotiating Compensation in the time of Covid-19' workshop. I learned about alternative methods of compensation.">
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQGreA07B0HDAA/feedshare-shrink_800/0/1583252170016?e=1613606400&v=beta&t=7pFn367tnX7x1OsSlfFmmZAK5gdKsNre90mS3UZzDK8?format=jpg&name=medium" alt="Banner for the 'Tech CV Preparation Workshop' workshop that I participated in with FrauenLoop. I am in this photo, who can find me?.">
+<img src="https://media-exp1.licdn.com/dms/image/C4D22AQGreA07B0HDAA/feedshare-shrink_800/0/1583252170016?e=1613606400&v=beta&t=7pFn367tnX7x1OsSlfFmmZAK5gdKsNre90mS3UZzDK8?format=jpg&name=small" alt="Banner for the 'Tech CV Preparation Workshop' workshop that I participated in with FrauenLoop. I am in this photo, who can find me?.">
 
 
 
