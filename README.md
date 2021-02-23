@@ -1,5 +1,4 @@
-# yara
-## Hi, I'm Yara
+# Hi, I'm Yara
 
 Hello, Yara here, check out my profile.
 <br/> 📫 How to reach me: https://www.linkedin.com/in/yara-abbas/ 
