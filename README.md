@@ -7,6 +7,8 @@ Hello, Yara here, check out my profile.
 
 ### <a href=" https://www.frauenloop.org/"> FrauenLoop</a>
 
+[![](https://avatars.githubusercontent.com/u/44102362?s=200&v=4)](https://github.com/FrauenLoop-Berlin) 
+
 ✏️ I’m currently learning to Develop some web apps using Python Flask, and more....
 I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a href="https://www.frauenloop.org/"> FrauenLoop</a> in Berlin, and I am currently in my 4th Cycle. I am very lucky to be involved in the FraueLoop initiative here in Berlin, as a program that tries improve diversity and inclusion in the Tech Field.
 
@@ -17,9 +19,10 @@ I have completed 3 cycles of <strong>Frontend Web Development</strong> with <a h
 
 ### Small projects
 
-I have worked on artists' web projects :
+I have worked on artists' web projects with my HTML + CSS skills:
 
-- <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a>
+- <a href="https://abujildeh.com/">Abu Jildeh & Armeet</a> [![](https://payload.cargocollective.com/1/19/616003/14212539/01-abu-jildeh-basel-ruanne-thumbnail_1.png?size=100)](https://abujildeh.com)  
+
 - <a href="https://bilnaes.com/">Bilnaes</a>
 
 I’m currently working on the coordination of Outreach/content management/testing of the Palestinian Museum's online platform:
