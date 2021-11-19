@@ -3,7 +3,7 @@
 Hello, Yara here, check out my profile.
 <br/> 📫 How to reach me: https://www.linkedin.com/in/yara-abbas/ 
 
-✏️ I’m currently learning to Develop some web apps using Python Flask, and more....
+✏️ I have learned to develop some basic web apps using Python Flask, React and more....
 I have completed 4 cycles of <strong>Frontend Web Development</strong> with <a href="https://www.frauenloop.org/"> FrauenLoop</a> in Berlin. I am very lucky to be involved in the FraueLoop initiative.
 
 ## <a href=" https://www.frauenloop.org/"> FrauenLoop</a>
