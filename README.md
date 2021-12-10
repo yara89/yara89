@@ -30,7 +30,7 @@ I’m currently working on the coordination of **digital outreach/ maintenance/c
 ## <a href="https://www.paljourneys.org/">PalJourneys</a> 
 [![](https://www.paljourneys.org/screenshot.png)](https://www.paljourneys.org) 
 
-
+<i class="fab fa-facebook-f"></i>
 
 <!--
 **yara89/yara89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
